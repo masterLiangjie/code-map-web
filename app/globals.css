@@ -3,6 +3,12 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --font-geist-sans:
+    "SF Pro Text", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans", sans-serif;
+  --font-geist-mono:
+    "SF Mono", "Menlo", "Monaco", "Cascadia Mono", "Segoe UI Mono",
+    "Roboto Mono", monospace;
 }
 
 @theme inline {
